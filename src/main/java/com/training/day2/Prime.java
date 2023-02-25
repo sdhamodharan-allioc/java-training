@@ -9,7 +9,11 @@ public class Prime {
 
         boolean result = isPrime(givenNumber);
 
-        System.out.println(givenNumber +": Is Prime");
+        if(result) {
+            System.out.println(givenNumber +": Is Prime");
+        }else{
+            System.out.println(givenNumber +": Is Not a Prime");
+        }
     }
 
     public static boolean isPrime(int givenNumber) {
@@ -19,8 +23,7 @@ public class Prime {
             for(int count=2; count <= rootValue; count++){
                 if(isPrime(count)){
                     if ( (givenNumber % count) == 0){
-                        isPrimeResult = false;
-                        break;
+                        return false;
                     }
                 }
             }
