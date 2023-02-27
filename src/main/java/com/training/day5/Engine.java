@@ -1,4 +1,4 @@
-package com.sample.interfaces;
+package com.training.day5;
 
 public abstract class Engine implements IEngine{
 

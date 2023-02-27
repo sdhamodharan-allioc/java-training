@@ -1,8 +1,8 @@
 package com.sample.second;
 
-import com.sample.interfaces.DieselEngine;
-import com.sample.interfaces.IEngine;
-import com.sample.interfaces.PetrolEngine;
+import com.training.day5.DieselEngine;
+import com.training.day5.IEngine;
+import com.training.day5.PetrolEngine;
 
 public class TestImport {
 

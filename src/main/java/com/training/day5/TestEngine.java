@@ -1,4 +1,4 @@
-package com.sample.interfaces;
+package com.training.day5;
 
 import java.util.ArrayList;
 import java.util.List;
