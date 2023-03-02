@@ -1,3 +1,4 @@
+package com.training.day6;
 
 public class InfExample {
     public static void main(String[] args) {

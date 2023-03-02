@@ -1,3 +1,5 @@
+package com.training.day6;
+
 public class Rectangle1 implements Polygon{
         public void getarea(){
         int length = 5;

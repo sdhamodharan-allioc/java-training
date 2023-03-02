@@ -1,3 +1,4 @@
+package com.training.day6;
 
 public class Square1 implements Polygon {
     public void getarea()

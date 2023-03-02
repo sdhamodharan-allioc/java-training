@@ -1,3 +1,5 @@
+package com.training.day6;
+
 public class Factorial {
     public static void main(String[] args) {
         int i,n,fact;
@@ -7,6 +9,6 @@ public class Factorial {
         {
             fact = fact * i;
         }
-        System.out.println("Factorial of "+ n +" is :" + fact);
+        System.out.println("com.training.day6.Factorial of "+ n +" is :" + fact);
     }
 }

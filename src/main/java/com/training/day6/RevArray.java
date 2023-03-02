@@ -1,4 +1,4 @@
-package com.training.day5;
+package com.training.day6;
 
 public class RevArray {
     public static void main(String[] args) {
