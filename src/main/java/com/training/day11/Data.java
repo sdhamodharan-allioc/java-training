@@ -8,7 +8,8 @@ public class Data {
     }
     private String name;
 
-    public Data(String n) {
+    public Data(String n)
+    {
         System.out.println("Parameterized Constructor");
         this.name = n;
     }

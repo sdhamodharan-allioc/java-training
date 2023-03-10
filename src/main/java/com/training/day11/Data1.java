@@ -6,32 +6,40 @@ package com.training.day11;
         private int id;
 
         //no-args constructor
-        public Data1() {
+        public Data1()
+        {
             this.name = "Default Name";
         }
         //one parameter constructor
-        public Data1(String n) {
+        public Data1(String n)
+        {
+
             this.name = n;
         }
         //two parameter constructor
-        public Data1(String n, int i) {
+        public Data1(String n, int i)
+        {
             this.name = n;
             this.id = i;
         }
 
-        public String getName() {
+        public String getName()
+        {
             return name;
         }
 
-        public int getId() {
+        public int getId()
+        {
             return id;
         }
 
         @Override
-        public String toString() {
+        public String toString()
+        {
             return "ID="+id+", Name="+name;
         }
-        public static void main(String[] args) {
+        public static void main(String[] args)
+        {
             Data1 d1=new Data1();
             System.out.println(d1);
 
