@@ -1,0 +1,8 @@
+09:44:19 INFO  Default system locale: English (United States)
+09:44:19 INFO  Listing Keys.
+09:44:19 INFO  Total keys : 2
+Key ID : 0x2158ABE4A6290FC1		User : HW_KeyPair_PROD <IntegrationNotification@wd-wpp.com>		Description : Key Pair		Key Type : RSA		Key Size : 2048		Expiration Date : Sun Jul 12 23:59:59 PDT 2026
+
+Key ID : 0x4B474EFD5319F1C2		User : JPMC_GTI_MFT_FTS <gti_ecs_file_transfer_services_ops@jpmchase.com>		Description : Public Key		Key Type : RSA		Key Size : 2048		Expiration Date : Wed Jun 26 21:06:54 PDT 2024
+
+09:44:20 INFO  Finished Listing
