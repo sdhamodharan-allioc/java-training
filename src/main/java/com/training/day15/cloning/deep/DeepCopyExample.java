@@ -1,4 +1,4 @@
-package com.training.day15.Cloning;
+package com.training.day15.cloning.deep;
 
 class ABC1
 {
