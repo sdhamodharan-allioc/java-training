@@ -1,7 +1,7 @@
 package com.training.day13;
 
 public class StringTest {
-        public static void main(String aregs[]) {
+        public static void main(String args[]) {
             String s1 = "Welcome";
             String s2 = new String("Hello");
             String s3 = "Welcome";
